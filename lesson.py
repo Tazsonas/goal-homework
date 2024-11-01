@@ -8,17 +8,30 @@ print(points)
 
 #snake_case ვიყენებთ მაშინ როდესაც ერთზე მეტ სტყვას ვიყენებთ პითონში ერთმანეთისგან გამოვყოთ _ ის საშუალებით
 
+#name = "Tazo
+#age  9
+#lives = "GEORGIA'
+#surname = kochadze'
+#username  "Tazsonas"
+#Name = dem
+#Age = 5[]
+#Lives = "GEORGIA>
+#Surname = <>kochadze
+#NAME = TA<ZO 
+#>SURNAME  KOCHADZE/
+
 #name = "Tazo"
 #age = 9
-#lives = "GEORGIA"
-#surname = "kochadze"
+#leves = "GEORGIA"
+#surname ="kochadze"
 #username = "Tazsonas"
-#Name = deme
+#Name ="deme"
 #Age = 5
-#Lives = GEORGIA
-#Surname = kochadze
-#NAME = TAZO 
-#SURNAME = KOCHADZE
+#lives = "GEORGIA"
+#Surname = "KOCHADZE"
+#NAME = "TAZO"
+#SURNAME = "KOCHADZE"
+
 
 
 
