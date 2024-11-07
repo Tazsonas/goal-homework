@@ -1,5 +1,0 @@
-
-
-
-name = "Tazo"
-print(name)
